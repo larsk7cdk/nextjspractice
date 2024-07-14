@@ -38,3 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Youtube video
 https://www.youtube.com/watch?v=WgFpPjD7D6I
+
+Nået til 1:52:10
